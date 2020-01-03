@@ -6,5 +6,6 @@ public class Test1 {
 		System.out.println("fuck!");
 		System.out.println("11111111");
 		System.out.println("22222");
+		System.out.println("44444");
 	}
 }
